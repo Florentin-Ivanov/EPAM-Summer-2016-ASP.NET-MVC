@@ -1,0 +1,4 @@
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Logic\bin\Debug\Task1Logic.dll
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Logic\bin\Debug\Task1Logic.pdb
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Logic\obj\Debug\Task1Logic.dll
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Logic\obj\Debug\Task1Logic.pdb

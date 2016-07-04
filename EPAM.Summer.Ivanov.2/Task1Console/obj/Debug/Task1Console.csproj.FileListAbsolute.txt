@@ -1,0 +1,8 @@
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Console\bin\Debug\Task1Console.exe.config
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Console\bin\Debug\Task1Console.exe
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Console\bin\Debug\Task1Console.pdb
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Console\obj\Debug\Task1Console.csprojResolveAssemblyReference.cache
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Console\obj\Debug\Task1Console.exe
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Console\obj\Debug\Task1Console.pdb
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Console\bin\Debug\Task1Logic.dll
+M:\004_Documents\Документы\EPAM Training - ASP.NET MVC\Projects\EPAM.Summer.Ivanov.Day2\Task1Console\bin\Debug\Task1Logic.pdb
